@@ -82,3 +82,4 @@ class Lexer:
 codigo = str(input("ingrese el codigo: "))
 lexer = Lexer(codigo)
 print(lexer.tokenize())
+
